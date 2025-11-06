@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://i.imgur.com/xg3u9mr.png"
   name             : "Enzo Calil"
   pronouns         : # example: "she/her"  
   bio              : "Desenvolvedor"
